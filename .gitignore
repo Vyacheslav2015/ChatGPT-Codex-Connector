@@ -1,0 +1,20 @@
+# Secrets
+.env
+*.pem
+*.key
+*.pfx
+*.p12
+id_rsa
+id_ed25519
+
+# Local data
+input/
+output/
+data/
+documents/
+private/
+confidential/
+
+# System
+.DS_Store
+Thumbs.db
